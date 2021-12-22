@@ -3,6 +3,9 @@ Tweaks for different repos
 
 # Ubuntu Tweaks
 
+## Installing Gnome shell extension
++ https://linuxhint.com/installing_gnome_extensions_ubuntu/
+
 ## System monitor shell extension
 + ``` sudo apt-get install -y indicator-multiload ```
 + [System monitor](https://extensions.gnome.org/extension/120/system-monitor/)
