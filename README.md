@@ -25,3 +25,6 @@ Tweaks for different repos
   ```
   sudo apt-get install subversion
   ```
+  
+  ## Installaing FTP solution (FTP over TLS (FTPS) and SFTP)
+  ``` sudo apt install filezilla ```
