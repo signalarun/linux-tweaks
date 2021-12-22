@@ -34,3 +34,10 @@ Tweaks for different repos
   
 ## Installaing FTP solution (FTP over TLS (FTPS) and SFTP)
   ``` sudo apt install filezilla ```
+  
+  
+  
+  
+### Troubleshooting  
+``` sudo apt-get install ubuntu-gnome-desktop ```
+``` sudo apt install gnome-shell-extensions ```
