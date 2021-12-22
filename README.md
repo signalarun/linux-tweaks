@@ -3,7 +3,13 @@ Tweaks for different repos
 
 # Ubuntu Tweaks
 
-- [System monitor](https://extensions.gnome.org/extension/120/system-monitor/)
+## System monitor shell extension
++ ``` sudo apt-get install -y indicator-multiload ```
++ [System monitor](https://extensions.gnome.org/extension/120/system-monitor/)
+
+## Extensions for wide screens
++ https://extensions.gnome.org/extension/28/gtile/
++ https://github.com/pkkid/pygrid#pygrid
 
 ## GPU test
 - ```
