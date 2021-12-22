@@ -14,7 +14,7 @@ Tweaks for different repos
 
 
 ## Settingup version control system in Ubuntu
-- RabitVCS
+- RabbitVCS
   ```
    sudo apt update
   ```
