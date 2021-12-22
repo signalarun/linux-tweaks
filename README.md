@@ -21,4 +21,7 @@ Tweaks for different repos
   ``` 
   sudo apt install rabbitvcs-core rabbitvcs-cli rabbitvcs-nautilus
   ```
-- 
+- Commandline only Subversion
+  ```
+  sudo apt-get install subversion
+  ```
