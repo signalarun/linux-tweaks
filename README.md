@@ -14,10 +14,11 @@ Tweaks for different repos
 
 
 ## Settingup version control system in Ubuntu
-- ```
+- RabitVCS
+  ```
    sudo apt update
   ```
-- ``` 
+  ``` 
   sudo apt install rabbitvcs-core rabbitvcs-cli rabbitvcs-nautilus
   ```
 - 
