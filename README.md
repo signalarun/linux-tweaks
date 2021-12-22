@@ -11,3 +11,13 @@ Tweaks for different repos
    glmark2
   ```
 - https://get.webgl.org/  
+
+
+## Settingup version control system in Ubuntu
+- ```
+   sudo apt update
+  ```
+- ``` 
+  sudo apt install rabbitvcs-core rabbitvcs-cli rabbitvcs-nautilus
+  ```
+- 
