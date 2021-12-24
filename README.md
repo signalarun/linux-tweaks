@@ -14,6 +14,9 @@ Tweaks for different repos
 + https://extensions.gnome.org/extension/28/gtile/
 + https://github.com/pkkid/pygrid#pygrid
 
+## Dash to dock extension
++ https://extensions.gnome.org/extension/307/dash-to-dock/
+
 ## GPU test
 - ```
    sudo apt-get install glmark2
