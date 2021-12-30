@@ -6,7 +6,7 @@
 
 ``` sudo apt install postgresql postgresql-contrib ```
 
-## Changingdefault password
+## Changing default password
 ``` sudo -i -u postgres ```  
 ``` psql ```  
 ``` ALTER USER postgres PASSWORD 'postgres'; ```  
