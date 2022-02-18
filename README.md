@@ -40,6 +40,8 @@ Tweaks for different repos
   
 ## Installaing FTP solution (FTP over TLS (FTPS) and SFTP)
   ``` sudo apt install filezilla ```
+## Installing Openssh in Ubuntu
+  - [How to enable ssh on ubuntu-18-04](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/)
   
 ### Troubleshooting  
 ``` sudo apt-get install ubuntu-gnome-desktop ```  
