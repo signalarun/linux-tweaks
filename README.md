@@ -14,6 +14,10 @@ Tweaks for different repos
 + https://extensions.gnome.org/extension/28/gtile/
 + https://github.com/pkkid/pygrid#pygrid
 
+## Folder color
++ https://www.omgubuntu.co.uk/change-folder-color-ubuntu
+
+
 ## Dash to dock extension
 + https://extensions.gnome.org/extension/307/dash-to-dock/
 
