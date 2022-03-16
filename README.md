@@ -15,6 +15,7 @@ Tweaks for different repos
 + https://github.com/pkkid/pygrid#pygrid
 
 ## Folder color
++ https://ostechnix.com/how-to-change-the-folder-color-and-emblem-instantly-in-ubuntu/
 + https://www.omgubuntu.co.uk/change-folder-color-ubuntu
 
 
